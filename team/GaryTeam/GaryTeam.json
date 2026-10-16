@@ -1,0 +1,19 @@
+{
+  "name": "GaryTeam",
+  "version": "1.0",
+  "authors": [
+    "Gary"
+  ],
+  "description": "A team of four GaryBots.\nThey never target each other and hold fire\nwhen a teammate is in the line of fire.",
+  "homepage": "",
+  "countryCodes": [
+    "de"
+  ],
+  "teamMembers": [
+    "GaryBot",
+    "GaryBot",
+    "GaryBot",
+    "GaryBot"
+  ],
+  "license": "Apache-2.0"
+}
