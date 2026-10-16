@@ -1,0 +1,15 @@
+{
+  "name": "GaryBot",
+  "version": "1.0",
+  "authors": [
+    "Gary"
+  ],
+  "description": "Awesome Bot.",
+  "homepage": "",
+  "countryCodes": [
+    "de"
+  ],
+  "platform": "Python",
+  "programmingLang": "Python 3",
+  "license": "Apache-2.0"
+}
